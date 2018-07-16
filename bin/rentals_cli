@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require '../lib/rentals_cli_app.rb'
+
+RentalsCli::CLI.new.call
